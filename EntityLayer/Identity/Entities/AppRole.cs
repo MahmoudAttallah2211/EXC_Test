@@ -9,6 +9,6 @@ namespace EntityLayer.Identity.Entities
 {
     public class AppRole:IdentityRole
     {
-        public int role { get; set; }
+
     }
 }
