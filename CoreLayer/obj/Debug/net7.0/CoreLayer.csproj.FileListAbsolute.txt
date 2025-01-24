@@ -1,0 +1,14 @@
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\bin\Debug\net7.0\CoreLayer.deps.json
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\bin\Debug\net7.0\CoreLayer.runtimeconfig.json
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\bin\Debug\net7.0\CoreLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\bin\Debug\net7.0\CoreLayer.pdb
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfo.cs
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\refint\CoreLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.pdb
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.genruntimeconfig.cache
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\ref\CoreLayer.dll

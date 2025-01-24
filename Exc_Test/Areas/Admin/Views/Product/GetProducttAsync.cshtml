@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "GetProducttAsync";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GetProducttAsync</h1>
+
+<div class="row">
+
+    <div class="col-lg-3 col-md-4 label">ProductData</div>
+
+   <table class="tabletable-hover">
+
+       <thead>
+           <tr>
+
+               <th scope="col">Header</th>
+               <th scope="col">Create Date</th>
+                <th scope="col">Updated Date</th>
+                <th scope="col">Delete</th>
+           </tr>
+       </thead>
+       <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Header</td>
+                    <td>@item.CreateDate</td>
+                    <td>@item.UpdatedDate</td>
+                   
+
+                </tr>
+            }
+
+       </tbody>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+
+
+
+
+    <div>Detials</div>
+ </div>
+
