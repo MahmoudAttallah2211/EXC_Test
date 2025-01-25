@@ -12,9 +12,9 @@ using System.Threading.Tasks;
 
 namespace RepositoryLayer.context
 {
-    public class AppDbContext : IdentityDbContext<AppUser, AppRole,string>
+    public class AppDbContext : IdentityDbContext<AppUser, AppRole, string>
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        public AppDbContext(DbContextOptions<AppDbContext> options)
         {
 
 
@@ -29,13 +29,16 @@ namespace RepositoryLayer.context
 
         public DbSet<Category> Categories { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelbuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelbuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
-            base.OnModelCreating(modelbuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            modelBuilder.Entity<Product>().Property(x => x.Id).IsRequired().HasMaxLength(150);
+            modelBuilder.Entity<Category>().Property(x => x.Id).IsRequired().HasMaxLength(150);
+
+            base.OnModelCreating(modelBuilder);
         }
-        
-          
-        
+
+
+
     }
 }

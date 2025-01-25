@@ -293,3 +293,4 @@ C:\Users\MahmoudAttallah\source\repos\Exc_Test\Exc_Test\bin\Debug\net7.0\runtime
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\Exc_Test\bin\Debug\net7.0\FluentValidation.dll
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\Exc_Test\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\Exc_Test\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\Exc_Test\obj\Debug\net7.0\Exc_Test.sourcelink.json

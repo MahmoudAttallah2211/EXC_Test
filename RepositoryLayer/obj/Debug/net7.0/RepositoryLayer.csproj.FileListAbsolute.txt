@@ -17,3 +17,4 @@ C:\Users\MahmoudAttallah\source\repos\Exc_Test\RepositoryLayer\obj\Debug\net7.0\
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.pdb
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.genruntimeconfig.cache
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\RepositoryLayer\obj\Debug\net7.0\ref\RepositoryLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.sourcelink.json

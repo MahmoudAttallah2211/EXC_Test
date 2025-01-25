@@ -19,3 +19,4 @@ C:\Users\MahmoudAttallah\source\repos\Exc_Test\ServiceLayer\obj\Debug\net7.0\ref
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\ServiceLayer\obj\Debug\net7.0\ServiceLayer.genruntimeconfig.cache
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\ServiceLayer\obj\Debug\net7.0\ServiceLayer.sourcelink.json

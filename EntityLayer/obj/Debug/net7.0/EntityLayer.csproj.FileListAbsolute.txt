@@ -15,3 +15,4 @@ C:\Users\MahmoudAttallah\source\repos\Exc_Test\EntityLayer\obj\Debug\net7.0\refi
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\EntityLayer\obj\Debug\net7.0\EntityLayer.sourcelink.json

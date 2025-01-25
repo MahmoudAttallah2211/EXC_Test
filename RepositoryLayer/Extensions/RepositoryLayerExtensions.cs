@@ -21,6 +21,8 @@ namespace RepositoryLayer.Extensions
         {
             services.AddDbContext<AppDbContext>(option => option.UseSqlServer(connectionString: Configuration.GetConnectionString("DefaultConnectionString")));
 
+
+
             services.AddScoped(typeof(IGenericRepositories<>), typeof(GenericRepositories<>));
 
             services.AddScoped<DbContext, AppDbContext>();

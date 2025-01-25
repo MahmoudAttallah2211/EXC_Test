@@ -12,3 +12,4 @@ C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\refint
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.pdb
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.genruntimeconfig.cache
 C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\ref\CoreLayer.dll
+C:\Users\MahmoudAttallah\source\repos\Exc_Test\CoreLayer\obj\Debug\net7.0\CoreLayer.sourcelink.json
